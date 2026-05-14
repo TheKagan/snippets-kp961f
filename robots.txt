@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://TheKagan.github.io/snippets-kp961f/sitemap.xml
